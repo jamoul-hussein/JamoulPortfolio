@@ -1,0 +1,12 @@
+/* Optional: swap this to your preferred font (or import Google Fonts). */
+/* Keeping it minimal so the build never breaks if fonts are not configured yet. */
+:root {
+  --font-sans: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica,
+    Arial, "Apple Color Emoji", "Segoe UI Emoji";
+}
+
+body {
+  font-family: var(--font-sans);
+}
+
+

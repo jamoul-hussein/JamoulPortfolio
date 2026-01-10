@@ -1,0 +1,12 @@
+@import './styles/index.css';
+
+/* Minimal reset */
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#app {
+  min-height: 100vh;
+}
