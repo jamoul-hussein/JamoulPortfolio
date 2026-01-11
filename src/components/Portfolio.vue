@@ -16,7 +16,7 @@ const projects: Project[] = [
       'A full-featured blog website for a company called Granfineo, it is a WordPress website that uses the Raw CSS and Elementor plugin for the design and the SEO plugin for the SEO.' +
       'the design is RTL (Right to Left) for the Arabic language. content are blogs about web and graphic design.',
     image:
-      '/src/assets/GranfineoAR.png',
+      '/photos/GranfineoAR.png',
     tags: ['WordPress', 'PHP', 'MySQL', 'HTML', 'CSS', 'JavaScript', 'Plugins', 'Elementor', 'SEO', 'Social Media', 'Analytics', 'Blogs', 'Web Design', 'Graphic Design'],
     link: 'https://arabic.grafineo.net/',
   },
@@ -26,7 +26,7 @@ const projects: Project[] = [
       'A full-featured blog website called Granfineo, it is a WordPress website that uses the Raw CSS and Elementor plugin for the design and the SEO plugin for the SEO.' +
       'content are blogs about web and graphic design.',
     image:
-      '/src/assets/GranfineoEng.png',
+      '/photos/GranfineoEng.png',
     tags: ['WordPress', 'PHP', 'MySQL', 'HTML', 'CSS', 'JavaScript', 'Plugins', 'Elementor', 'SEO', 'Social Media', 'Analytics', 'Blogs', 'Web Design', 'Graphic Design', 'IONOS Hosting', 'WordPress Hosting'],
     link: 'https://www.grafineo.net/',
   },
@@ -39,7 +39,7 @@ const projects: Project[] = [
       ' Deployed manually on a Hetzner server with a domain registered on IONOS.' +
       ' Backend: Laravel (PHP) API. Frontend: SvelteKit + Tailwind CSS + TypeScript, with an advanced security layer.',
     image:
-      '/src/assets/BoslaAR.png',
+      '/photos/BoslaAR.png',
     tags: ['SvelteKit', 'Tailwind CSS', 'Typescript', 'Laravel', 'API', 'Security', 'Admin Panel', 'Hetzner Hosting', 'IONOS Domain', 'Advanced Search Engine', 'Filtering System', 'Influencer Wiki', 'PHP', 'Docker', 'Node.js', 'MariaDB', 'Redis'],
     link: 'https://bosla.grafineo.net',
   },
